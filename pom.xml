@@ -16,6 +16,13 @@
             <version>5.2.3</version>
         </dependency>
 
+        <!-- Postgresql jdbc -->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.7.3</version>
+        </dependency>
+
         <!-- PDFBox for PDF parsing -->
         <dependency>
             <groupId>org.apache.pdfbox</groupId>
